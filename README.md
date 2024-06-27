@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @emerson465
+- 👀 I’m interested in develop
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Open Source
+- 📫 How to reach me emerson.s.alves465@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I am a computer engineer
